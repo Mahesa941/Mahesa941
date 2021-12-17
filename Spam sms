@@ -1,0 +1,21 @@
+$ apt update && apt upgrade
+
+$ pkg install python
+
+$ pkg install git
+
+$ pkg install bash
+
+$ pkg install curl
+
+$ pkg install jq
+
+$ git clone https://github.com/Sxp-ID/spam-wa
+
+$ cd spam-wa
+
+$ git pull
+
+$ pip install -r requirements.txt
+
+$ python wa.py
